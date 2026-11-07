@@ -1,0 +1,26 @@
+,importance
+numeric__Inflight entertainment,0.5169923815455587
+numeric__Seat comfort,0.2140407612394302
+numeric__Ease of Online booking,0.07966069703395083
+categorical__Customer Type_Loyal Customer,0.029029818204522752
+categorical__Class_Business,0.023351952379223162
+numeric__Gate location,0.020042267157714934
+categorical__Customer Type_disloyal Customer,0.01682591640809632
+numeric__Online support,0.014112143654406082
+categorical__Type of Travel_Business travel,0.012780517812653209
+numeric__Leg room service,0.011823329150484894
+numeric__Checkin service,0.010441522308121924
+numeric__Food and drink,0.010262615720353353
+numeric__Departure/Arrival time convenient,0.009928561721177091
+numeric__Cleanliness,0.006449018829089518
+numeric__Online boarding,0.005023879101159833
+categorical__Type of Travel_Personal Travel,0.00481818370936556
+numeric__Age,0.003451043401524705
+numeric__Departure Delay in Minutes,0.0033479606171728286
+numeric__Flight Distance,0.003162629728440806
+numeric__Arrival Delay in Minutes,0.002073708059527214
+numeric__Baggage handling,0.0016472036361431448
+numeric__On-board service,0.000519246801378741
+categorical__Class_Eco,0.00020949322975803039
+numeric__Inflight wifi service,5.148550746093925e-06
+categorical__Class_Eco Plus,0.0
